@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\bin\Debug\net6.0\04ISPDemo.exe
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\bin\Debug\net6.0\04ISPDemo.deps.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\bin\Debug\net6.0\04ISPDemo.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\bin\Debug\net6.0\04ISPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\bin\Debug\net6.0\04ISPDemo.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\refint\04ISPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\04ISPDemo.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\04ISPDemo\obj\Debug\net6.0\ref\04ISPDemo.dll

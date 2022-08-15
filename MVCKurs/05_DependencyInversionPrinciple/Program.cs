@@ -81,7 +81,7 @@
 
     public class DummyCar : ICar
     {
-        public int Id { get; set; } = 123
+        public int Id { get; set; } = 123;
         public string Brand { get; set; } = "VW";
         public string Model { get; set; } = "POLO";
         public int ConstructionYear { get; set; } = 2020;

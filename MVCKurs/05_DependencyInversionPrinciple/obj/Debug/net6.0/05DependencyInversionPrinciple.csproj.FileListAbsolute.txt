@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\bin\Debug\net6.0\05DependencyInversionPrinciple.exe
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\bin\Debug\net6.0\05DependencyInversionPrinciple.deps.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\bin\Debug\net6.0\05DependencyInversionPrinciple.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\bin\Debug\net6.0\05DependencyInversionPrinciple.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\bin\Debug\net6.0\05DependencyInversionPrinciple.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\refint\05DependencyInversionPrinciple.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\05DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\05_DependencyInversionPrinciple\obj\Debug\net6.0\ref\05DependencyInversionPrinciple.dll

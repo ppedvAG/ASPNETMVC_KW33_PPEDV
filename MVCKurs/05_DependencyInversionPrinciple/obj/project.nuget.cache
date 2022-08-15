@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eY4tm9O5IrUujyIjQB7GmcQYuqR2KDkYOvSRruV7Kpy8dsNP75DmTODcCMZglpw/LVC2Y7NA8G/tW6x/Y7k78w==",
+  "dgSpecHash": "67Tg5HwGtsWyXQWIQDybhkAYJ+JJwyLrEGq0hCegkh66ERmlcap/p9AkwLXSOw3vreV95Pcz7ifZwaTqAE48Tg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05_DependencyInversionPrinciple.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05DependencyInversionPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

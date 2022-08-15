@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05_DependencyInversionPrinciple.csproj",
-      "projectName": "05_DependencyInversionPrinciple",
-      "projectPath": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05_DependencyInversionPrinciple.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05DependencyInversionPrinciple.csproj",
+      "projectName": "05DependencyInversionPrinciple",
+      "projectPath": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\05DependencyInversionPrinciple.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\ASPNETMVC_KW33_PPEDV\\MVCKurs\\05_DependencyInversionPrinciple\\obj\\",
       "projectStyle": "PackageReference",

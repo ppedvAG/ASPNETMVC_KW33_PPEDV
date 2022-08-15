@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\bin\Debug\net6.0\IOCContainerSample.exe
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\bin\Debug\net6.0\IOCContainerSample.deps.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\bin\Debug\net6.0\IOCContainerSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\bin\Debug\net6.0\IOCContainerSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\bin\Debug\net6.0\IOCContainerSample.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\refint\IOCContainerSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\IOCContainerSample.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\IOCContainerSample\obj\Debug\net6.0\ref\IOCContainerSample.dll

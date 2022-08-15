@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\bin\Debug\net6.0\01SRPDemo.exe
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\bin\Debug\net6.0\01SRPDemo.deps.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\bin\Debug\net6.0\01SRPDemo.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\bin\Debug\net6.0\01SRPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\bin\Debug\net6.0\01SRPDemo.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\refint\01SRPDemo.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\01SRPDemo.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\01SRPDemo\obj\Debug\net6.0\ref\01SRPDemo.dll
