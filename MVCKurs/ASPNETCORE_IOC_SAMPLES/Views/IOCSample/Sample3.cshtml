@@ -1,0 +1,13 @@
+﻿@using ASPNETCORE_IOC_SAMPLES.Services
+@inject IRequestCounter requestCounter; 
+
+
+@{
+    ViewData["Title"] = "Sample3";
+
+    requestCounter.IncrementCounter();
+}
+
+<h1>Sample3</h1>
+
+<p>@requestCounter.Counter</p>

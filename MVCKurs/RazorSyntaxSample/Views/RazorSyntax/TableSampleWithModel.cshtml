@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Person>
+@{
+    ViewData["Title"] = "TableSampleWithModel";
+}
+
+<h1>TableSampleWithModel</h1>
+
+<table class="table">
+    <thead class="MyBlueTableHeader">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.FirstName) @*FirstName wird in der Spalte ausgegeben (Variablennamen)*@
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.LastName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Person currentPerson in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => currentPerson.FirstName) @*Variableninhalt von FirstName wird ausgegeben*@
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentPerson.LastName) @*Variableninhalt von FirstName wird ausgegeben*@
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@currentPerson.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

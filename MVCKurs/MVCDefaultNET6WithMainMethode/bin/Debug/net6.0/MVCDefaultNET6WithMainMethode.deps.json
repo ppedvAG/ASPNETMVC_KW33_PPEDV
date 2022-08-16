@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MVCDefaultNET6WithMainMethode/1.0.0": {
+        "runtime": {
+          "MVCDefaultNET6WithMainMethode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCDefaultNET6WithMainMethode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<VideoShopMVCAPP.Models.Movie>
+
+
+@{
+    Movie movieWithLowestPrice = null;
+
+    if (Model.Any())
+    {
+        //Sortiere die MovieListe nach kleinsten bis größten Preis und nehme den ersten Eintrag (Movie mit niedrigsten Preis)
+        movieWithLowestPrice = Model.OrderBy(m => m.Price).First();
+    }
+}
+
+@if (movieWithLowestPrice != null)
+{
+    <div style="background-color:orange">
+        <p>Sonderangebot</p>
+        <div class="card">
+            <div class="card-body">
+                <p>@movieWithLowestPrice.Title</p>
+                <p>@movieWithLowestPrice.Price</p>
+            </div>
+        </div>
+    </div>
+}

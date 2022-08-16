@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\bin\Debug\net6.0\LinqLambdaSample.exe
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\bin\Debug\net6.0\LinqLambdaSample.deps.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\bin\Debug\net6.0\LinqLambdaSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\bin\Debug\net6.0\LinqLambdaSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\bin\Debug\net6.0\LinqLambdaSample.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\refint\LinqLambdaSample.dll
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.pdb
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\LinqLambdaSample.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETMVC_KW33_PPEDV\MVCKurs\LinqLambdaSample\obj\Debug\net6.0\ref\LinqLambdaSample.dll
