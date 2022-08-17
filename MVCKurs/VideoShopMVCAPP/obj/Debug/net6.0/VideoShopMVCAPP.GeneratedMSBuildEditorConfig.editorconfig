@@ -55,6 +55,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/ASPNETMVC_KW33_PPEDV/MVCKurs/VideoShopMVCAPP/Views/Photo/FormattedGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cRm9ybWF0dGVkR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETMVC_KW33_PPEDV/MVCKurs/VideoShopMVCAPP/Views/Photo/PictureGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cUGljdHVyZUdhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETMVC_KW33_PPEDV/MVCKurs/VideoShopMVCAPP/Views/Photo/UploadPictureSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cVXBsb2FkUGljdHVyZVNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/ASPNETMVC_KW33_PPEDV/MVCKurs/VideoShopMVCAPP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

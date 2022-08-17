@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using VideoShopMVCAPP.Data;
+using VideoShopMVCAPP.Middleware;
 
 namespace VideoShopMVCAPP
 {
@@ -41,12 +42,20 @@ namespace VideoShopMVCAPP
                 app.UseHsts();
             }
 
+            AppDomain.CurrentDomain.SetData("BildVerzeichnis", app.Environment.WebRootPath);
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
 
             app.UseAuthorization();
+
+
+            app.MapWhen(context => context.Request.Path.ToString().Contains("imagegen"), subapp =>
+            {
+                subapp.UseThumbnailGen();
+            });
 
             app.MapControllerRoute(
                 name: "default",

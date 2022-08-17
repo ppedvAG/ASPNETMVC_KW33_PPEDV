@@ -1,0 +1,23 @@
+﻿
+@using  TagHelpersSamples.TagHelpers;
+@{
+    ViewData["Title"] = "Home Page";
+
+    WebsiteContext websiteContext = new WebsiteContext();
+    websiteContext.Version = new Version("1.2");
+    websiteContext.Approved = true;
+    websiteContext.CopyrightYear = 2022;
+    websiteContext.TagsToShow = 2;
+}
+
+
+<h2>Tag Helper Sample</h2>
+
+
+@Html.HelloWorld("Donald Duck")
+@Html.HelloWorldHTMLString()
+@Html.HelloWorldString()
+
+
+
+<website-information info=websiteContext />

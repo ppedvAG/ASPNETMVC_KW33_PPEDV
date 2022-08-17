@@ -26,7 +26,7 @@ Wiederholung zum Thema IOC
 
 - [ ] Überblick über HTTPContext und Controller-Basisklasse
 - [x] Was ist GET und POST -Methoden
-- [ ] QueryString bei Get-Methoden
+
 - [x] Ein Formular mit mehren Buttons (Post-Methoden)
 - [x] Data Annotations 
 - [x] Validierung (clientseitig und serverseitig)
@@ -39,33 +39,30 @@ Wiederholung zum Thema IOC
   - [x] Add-Migration + Update-Database im Bezug auf eine DBContext 
  
   State-Management
-- [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
-- [ ] ViewData
-- [ ] ViewBag
-- [ ] TempData
-- [ ] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
+- [x] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
+- [x] ViewData
+- [x] ViewBag
+- [x] TempData
+- [x] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
 
 
 Mittwoch: 
  
 Formual-Beispiel mit Bild-Dataien
-- [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
+- [x] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
 
 Razor-Erweiterungen
-- [] HTML-Helper
-- [ ] TagHelpers
+- [x] HTML-Helper
+- [x] TagHelpers
 
 - [ ] ViewComponents & Localization -> Referenz Projekte anschauen
 
 - Routing
+- [ ] QueryString bei Get-Methoden
 - [ ] Konventionelles Routing
 - [ ] Attribute Routing (HttpVerbs)
 
-Middleware
-- [ ] Middleware -> Was ist ein Pipeline (Use, Run, Map)
-
-
-- [ ] Customize Middleware für formatierte Bildausgaben (Gallery)+ In Verbindung mit einem Bild-Upload-Formular
+- [x] Customize Middleware für formatierte Bildausgaben (Gallery)+ In Verbindung mit einem Bild-Upload-Formular
 - [ ] Filter -> https://docs.microsoft.com/de-de/aspnet/core/mvc/controllers/filters?view=aspnetcore-5.0#resource-filters
 - [ ] AuthorisationFilter Sample (Read and Write Sample)
 
