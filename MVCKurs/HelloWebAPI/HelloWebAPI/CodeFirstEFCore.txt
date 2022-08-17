@@ -1,0 +1,37 @@
+﻿1.) Erstelle eine Movie-Klasse 
+
+Generieren des Controllers:
+2.) Controller-Verzeichnis (Rechtsklick) -> Add new Scaffolded Items 
+2.1) Auswahl Template "API mit Controller und EF Core"
+2.2) Auswahl der Movie Klasse + Auswahl UND Erstellung der DbContext-Klasse
+
+Wichtig: Bei Fehler in der Generierung -> Update der EFCore Packages in NuGet Package Manager (Beginner Schritt 2 nochmal)
+
+Ergebnis von Schritt 2: 
+-> Data-Verzeichnis ist neu + DbContext-Klasse 
+-> AppSetting.json hat einen ConnectionString - Eintrag 
+-> Startup.cs wurde ein AddDbContext hinzugefügt 
+
+
+3.) Rollout auf Datenbank
+
+
+SCHRITT1: (Generierungen des C# Scriptes)
+3.0) Kompilierung der kompletten Solution
+3.1) Menüleiste->Tools->NuGet Package Manager Console
+3.2) In NuGet Package Manager Console prüfen, ob Default Projekt, das Projekt ist, in der die DbContext-Klasse für den Rollout verwendet werden soll 
+3.3) Command>	Add-Migration [LabelDerVersion] [ENTER] 
+		->(Beispiel): Command> Add-Migration Version1
+
+		Explizieter und genauer wäre (wenn mehrer DbContext)
+		Command>Add-Migration Version1 -context [Namespace+Klassen Pfad]
+	Bsp:Command>Add-Migration Version1 -context HelloWebAPI.Data.MovieStoreDbContext
+
+	Ergebnis: Ein Migration-Verzeichnis wurde hinzugefügt 
+
+SCHRITT2: (Eigentlicher Rollout auf DB) 
+
+3.4 Command>Update-Database -context HelloWebAPI.Data.MovieStoreDbContext
+
+
+				
