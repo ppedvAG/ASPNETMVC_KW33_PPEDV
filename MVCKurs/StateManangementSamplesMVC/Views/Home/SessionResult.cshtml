@@ -1,0 +1,12 @@
+﻿
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "SessionResult";
+
+   
+    string name = Context.Session.GetString("Name").ToString();
+}
+
+<h1>SessionResult</h1>
+

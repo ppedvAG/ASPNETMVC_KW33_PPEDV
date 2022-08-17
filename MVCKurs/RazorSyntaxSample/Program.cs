@@ -1,4 +1,14 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using RazorSyntaxSample.Data;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<GameDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("GameDbContext") ?? throw new InvalidOperationException("Connection string 'GameDbContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSample2";
+}
+
+<h1>TempDataSample2</h1>
+
+@*@TempData["EmailAdresse"].ToString();
+
+@TempData["Id"].ToString();*@
+
+
+@*Eintrag wird ausgegeben + Löschung wird unterdrückt *@
+@TempData.Peek("Id").ToString();
+
+@TempData.Peek("EmailAdresse").ToString();

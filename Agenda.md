@@ -8,12 +8,12 @@ Montag
 - [x] Injection-Varianten
 - [x] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
 
-- [ ] Startup-Klasse mit .NET 6 vergleichen 
-- [ ] MVC-Default Project
-- [ ] Präsentationsschicht (1 Stunde) 
-- [ ] Razor-Syntax / RazorEngine 
-- [ ] Bootstrap
-- [ ] MVC mit ViewModels
+- [x] Startup-Klasse mit .NET 6 vergleichen 
+- [x] MVC-Default Project
+- [x] Präsentationsschicht (1 Stunde) 
+- [x] Razor-Syntax / RazorEngine 
+- [x ] Bootstrap
+- [x] MVC mit ViewModels
 
 
 
@@ -25,18 +25,18 @@ Wiederholung zum Thema IOC
 
 
 - [ ] Überblick über HTTPContext und Controller-Basisklasse
-- [ ] Was ist GET und POST -Methoden
+- [x] Was ist GET und POST -Methoden
 - [ ] QueryString bei Get-Methoden
-- [ ] Ein Formular mit mehren Buttons (Post-Methoden)
-- [ ] Data Annotations 
-- [ ] Validierung (clientseitig und serverseitig)
-- [ ] Gehen Geldbeträge mit Komma?
-- [ ] PartialView
+- [x] Ein Formular mit mehren Buttons (Post-Methoden)
+- [x] Data Annotations 
+- [x] Validierung (clientseitig und serverseitig)
+- [x] Gehen Geldbeträge mit Komma?
+- [x] PartialView
 
-- [ ] EF Core Einstieg (flexibel)
-  - [ ] Code First / Code First Reverse
-  - [ ] Repository / UnitOfWork Pattern in EF
-  - [ ] Add-Migration + Update-Database im Bezug auf eine DBContext 
+- [x] EF Core Einstieg (flexibel)
+  - [x] Code First / Code First Reverse
+  - [x] Repository / UnitOfWork Pattern in EF
+  - [x] Add-Migration + Update-Database im Bezug auf eine DBContext 
  
   State-Management
 - [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
@@ -49,7 +49,7 @@ Wiederholung zum Thema IOC
 Mittwoch: 
  
 Formual-Beispiel mit Bild-Dataien
-- [] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
+- [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
 
 Razor-Erweiterungen
 - [] HTML-Helper

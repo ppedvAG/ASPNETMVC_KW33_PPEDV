@@ -24,10 +24,12 @@
 
 <p>Wir können auch Inline-Berechnungen durchführen z.B: Datum vor einer Woche: @(DateTime.Now - TimeSpan.FromDays(7))</p>
 
+<a asp-route-redicret = "" ></a>
 
 <p>Mulitple Codeblock: </p>
 
 @{
+    //person1 ist in dieser View eine Lokale Variable 
     Person person1 = new Person() { Id = 123, FirstName = "Alf", LastName = "Katzenversteher" };
 }
 
